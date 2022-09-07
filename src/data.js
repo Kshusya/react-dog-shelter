@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         name: "Elik",
-        age: 4,
+        birthYear: 2018,
         gender: "male",
         image: "/IMG_5907.jpeg",
         description: "Vivamus at augue tempor, dignissim urna ut, convallis dolor. Donec quam lorem, eleifend sed sollicitudin vel, posuere non neque. Vestibulum dictum dolor quam, vitae sollicitudin ipsum bibendum quis. Nam ipsum nisl, sollicitudin quis turpis non, porta suscipit ex.",
@@ -10,7 +10,6 @@ export default [
     {
         id: 2,
         name: "Archie",
-        age: 6,
         gender: "male",
         image: "/IMG_4414.jpeg",
         description: "Nulla rhoncus lacinia ante, vitae hendrerit orci maximus id. Duis malesuada congue turpis, nec efficitur risus tincidunt id. In hac habitasse platea dictumst. Mauris bibendum nulla a ultricies luctus. Nunc luctus lorem in ante sollicitudin, id vehicula sapien mollis.",
@@ -18,7 +17,7 @@ export default [
     {
         id: 3,
         name: "Bella",
-        age: 2,
+        birthYear: 2020,
         gender: "female",
         image: "/IMG_3412.jpeg",
         description: "Nam dictum in erat vel hendrerit. Cras mollis nisi velit, nec feugiat nisi ullamcorper eu. Nam ullamcorper posuere augue, vel tempus mauris ornare a. Praesent aliquam quam dui, nec euismod nisi faucibus sed. Integer semper efficitur condimentum.",
@@ -26,7 +25,7 @@ export default [
     {
         id: 4,
         name: "Cooper",
-        age: 3,
+        birthYear: 2019,
         gender: "male",
         image: "/IMG_1671.jpeg",
         description: "Cras tincidunt, magna id commodo ultricies, nisl augue tincidunt turpis, quis sagittis urna quam sit amet lacus.",
@@ -34,7 +33,7 @@ export default [
     {
         id: 5,
         name: "Lola",
-        age: 3,
+        birthYear: 2019,
         gender: "female",
         image: "/IMG_1599.jpeg",
         description: "Praesent iaculis nulla sit amet nisi tempus, vel maximus justo mattis. Aenean quis semper justo. Pellentesque pulvinar dolor a tristique mollis. Integer fermentum nulla vitae erat commodo dignissim.",
@@ -42,7 +41,7 @@ export default [
     {
         id: 6,
         name: "Tucker",
-        age: 5,
+        birthYear: 2017,
         gender: "male",
         image: "/IMG_9147.jpeg",
         description: "Nullam commodo, mi non pulvinar iaculis, mi nulla hendrerit nunc, et lacinia ipsum mi at lectus. Vestibulum maximus lectus et leo vehicula sollicitudin. Nullam odio mauris, viverra ac nulla nec, efficitur pulvinar justo.",
@@ -50,7 +49,7 @@ export default [
     {
         id: 7,
         name: "Duke",
-        age: 8,
+        birthYear: 2014,
         gender: "male",
         image: "/IMG_3548.jpeg",
         description: "Etiam in ipsum eu nulla tristique sollicitudin. Quisque blandit eleifend lorem, sed tempus ligula sodales eget. In pulvinar venenatis ex nec placerat. Nullam magna arcu, euismod in porta eu, maximus quis erat.",
@@ -58,7 +57,7 @@ export default [
     {
         id: 8,
         name: "Luna",
-        age: 7,
+        birthYear: 2015,
         gender: "female",
         image: "/IMG_0436.jpeg",
         description: "Praesent sem lacus, scelerisque quis urna eu, tincidunt imperdiet tellus. In hac habitasse platea dictumst. Mauris sed ultrices nisi. Phasellus non ullamcorper dolor. Nam eu mattis nunc. Praesent eget scelerisque magna.",
@@ -66,7 +65,7 @@ export default [
     {
         id: 9,
         name: "Stella",
-        age: 4,
+        birthYear: 2018,
         gender: "female",
         image: "/IMG_9477.jpeg",
         description: "Quisque scelerisque augue felis, nec euismod ligula tristique in. Ut dignissim volutpat est, in lacinia leo porta et. Pellentesque imperdiet ultricies fringilla. Fusce et orci vitae mauris varius ullamcorper non non ipsum.",
@@ -74,7 +73,7 @@ export default [
     {
         id: 10,
         name: "Milo",
-        age: 5,
+        birthYear: 2017,
         gender: "male",
         image: "/IMG_7166.jpeg",
         description: "Cras dolor nulla, tincidunt nec vestibulum eu, suscipit ac libero. Suspendisse quis dapibus felis, non pharetra risus. Pellentesque pharetra porttitor diam, vitae tincidunt dolor lacinia et. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.",
