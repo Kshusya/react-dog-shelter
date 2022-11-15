@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        name: "Elik",
+        name: "Elisey",
         birthYear: 2018,
         gender: "male",
         image: "/IMG_5907.jpeg",
